@@ -13,3 +13,7 @@ This is a simple memory game made with Javascript, HTML and CSS.
 ## ScreenShots
 
 <img src="./ScreenShots/app.png"></img>
+
+## Live Demo
+
+<a href="https://memory-game-28.netlify.app/" >demo</a>
